@@ -1,5 +1,7 @@
 # this is not a functional lua whitelist, it's just helpers (mostly for roblox)
 
+## DESIGNED FOR SYNAPSE X
+
 > Description of Each
 - Anti-CCLosure: Detects any function that is a CClosure (Detects hookfunction, newcclosure, etc.)
 - Anti-LClosure: Detects any function that is an LClosure
