@@ -1,4 +1,4 @@
-# this is not a functional lua whitelist, it's just helpers
+# this is not a functional lua whitelist, it's just helpers (mostly for roblox)
 
 > Description of Each
 - Anti-CCLosure: Detects any function that is a CClosure (Detects hookfunction, newcclosure, etc.)
